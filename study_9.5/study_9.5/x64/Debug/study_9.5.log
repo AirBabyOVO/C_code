@@ -1,0 +1,10 @@
+﻿  study.c
+D:\Working\C\study_9.5\study.c(17,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Working\C\study_9.5\study.c(17,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\Working\C\study_9.5\study.c(18,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Working\C\study_9.5\study.c(18,9):
+      请考虑在格式字符串中使用“%zu”
+  
+  study_9.5.vcxproj -> D:\Working\C\study_9.5\x64\Debug\study_9.5.exe
