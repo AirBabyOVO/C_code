@@ -1,0 +1,5 @@
+﻿  test.c
+D:\Working\C\study_03\test.c(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Working\C\study_03\test.c(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Working\C\study_03\test.c(31,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  study_03.vcxproj -> D:\Working\C\study_03\x64\Debug\study_03.exe
